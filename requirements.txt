@@ -1,0 +1,6 @@
+vidstream
+requests
+pyautogui
+pyautogui 
+pyscreeze 
+Pillow
